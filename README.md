@@ -1,4 +1,4 @@
-<h2 align="left">👋! Olá , Me chamo Alan e moro no Brasil.</h2>
+<h2 align="left">👋! Olá , Me chamo Alan e seja bem vindo ao meu perfil!</h2>
 
 ###
 
